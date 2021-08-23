@@ -20,7 +20,6 @@ Send a message to the bot saying::
 Store Names
 -----
 
-See::
     JD - jdsports /
     Size? - size /
     Footpatrol - footpatrol
