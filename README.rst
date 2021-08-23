@@ -19,6 +19,7 @@ Send a message to the bot saying::
 
 Store Names
 -----
+::
 JD - jdsports
 Size? - size
 Footpatrol - footpatrol
@@ -26,7 +27,7 @@ Footpatrol - footpatrol
 
 Regions
 -------
-
-Germany = DE
+::
+Germany = DE 
 France = FR
 etc etc.
