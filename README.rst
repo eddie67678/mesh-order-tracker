@@ -19,6 +19,7 @@ Send a message to the bot saying::
 
 Store Names
 -----
+
 See::
     JD - jdsports
     Size? - size
@@ -27,6 +28,7 @@ See::
 
 Regions
 -------
+
 See::
     Germany = DE 
     France = FR
