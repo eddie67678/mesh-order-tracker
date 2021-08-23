@@ -21,15 +21,14 @@ Store Names
 -----
 
 See::
-    JD - jdsports
-    Size? - size
+    JD - jdsports /
+    Size? - size /
     Footpatrol - footpatrol
 
 
 Regions
 -------
 
-See::
-    Germany = DE 
-    France = FR
+    Germany = DE /
+    France = FR  /
     etc etc.
