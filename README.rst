@@ -34,4 +34,4 @@ Regions
 
 Example
 ------
-.. image:: https://i.gyazo.com/fb54ac7c97bde8c1ffe4785e64a0eae7.png
+.. image:: https://i.gyazo.com/7666abc23017cdf52ab9593d7a37f85e.png
